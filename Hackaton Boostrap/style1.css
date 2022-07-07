@@ -1,0 +1,75 @@
+body {
+    background-color: rgb(200, 112, 54);
+}
+
+.footer {
+    margin-top: 35px;
+}
+
+.container {
+    background-color: rgba(231, 212, 196, 0.796);
+}
+
+h4 {
+    display: flex;
+    justify-content: center;
+}
+
+.image img {
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+}
+
+.image1 img {
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+}
+.image2 img {
+    display: flex;
+    justify-items: center;
+    margin-left: 80px;
+    height: 450px;
+    width: auto;
+}
+.image3 img {
+    /* display: flex; */
+    justify-content: center;
+    margin-left: 80px;
+}
+
+
+strong {
+    margin-left: 100px;
+    margin-top: 15px;
+    font-size: 11px;
+}
+
+button {
+    border-radius: 15%;
+    background-color: bisque;
+}
+
+p {
+    margin-left: 35px;
+}
+
+
+/* /* BT, NAG BAR, Respo */
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+.map {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    margin-bottom: 35px;
+}
+
+iframe {
+    border: 4px solid #664d03;
+}
